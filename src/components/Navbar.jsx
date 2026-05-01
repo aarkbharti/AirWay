@@ -8,7 +8,7 @@ export function Navbar({ theme, toggleTheme }) {
           href="/" 
           className="font-humanist absolute left-1/2 -translate-x-1/2 font-bold text-3xl tracking-tight text-emerald-600 dark:text-emerald-400"
         >
-          AirAware
+          AirWay
         </a>
         
         <div className="flex flex-1 justify-end items-center gap-6">
